@@ -1,7 +1,7 @@
-gitpublic class Weekly_Assignments {
+public class Weekly_Assignments {
 	public static void main(String[] args) {
 		int p=95,c=96,m=94;
 		double avg=(p+c+m)/3;
-		System.out.println("Sam's average mark in PCM is "+avg);go
+		System.out.println("Sam's average mark in PCM is "+avg);
 	}
 }
