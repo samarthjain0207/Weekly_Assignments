@@ -1,5 +1,4 @@
-import java.util.Scanner;
-public class Weekly_Assignments {
+gitpublic class Weekly_Assignments {
 	public static void main(String[] args) {
 		int p=95,c=96,m=94;
 		double avg=(p+c+m)/3;
